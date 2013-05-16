@@ -5,6 +5,7 @@ gem 'rails', '3.2.13'
 gem 'haml'
 gem 'jquery-rails'
 gem 'unicorn'
+gem 'newrelic_rpm'
 
 group :development do
   gem 'sqlite3'
